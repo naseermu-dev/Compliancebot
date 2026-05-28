@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ComplianceBot.Agents/ComplianceBot.Agents.csproj" />
+    <Project Path="src/ComplianceBot.API/ComplianceBot.API.csproj" />
+    <Project Path="src/ComplianceBot.Core/ComplianceBot.Core.csproj" />
+  </Folder>
+</Solution>
